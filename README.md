@@ -6,18 +6,18 @@ Welcome to the ultimate mining game on Twitch! Mine ores, sell them for coins, u
 
 - `!about`: 📜 Shows information about the bot.
 - `!mine`: ⛏️ Mines ores.
-- `!sell`: 💰 Sells your ores for coins.
+- `!sell {Ore} {Amount}`: 💰 Sells your ores for coins.
 - `!sellall`: 💰 Sells all your ores for coins.
 - `!shop`: 🏪 Shows the available items in the shop.
 - `!buy`: 💸 Buys an item from the shop.
 - `!upgrade`: ⚒️ Upgrades your pickaxe if you have enough coins.
 - `!inventory`: 🎒 Displays the contents of your inventory.
-- `!stats`: 📊 Displays your stats, or the stats of another user.
+- `!stats {@user}`: 📊 Displays your stats, or the stats of another user.
 - `!world`: 🌍 Switches your mining world.
 - `!help`: ❓ Displays a help message with a list of commands.
 - `!leaderboard`: 🏆 Displays the top 5 users with the most coins.
 - `!guess`: 🎲 Plays a guessing game where you guess a number between 1 and 10. If you guess correctly, you win a random amount of coins between 1 and 10.
-- `!trade`: 💼 Trades a specified amount of your coins to another user.
+- `!trade {@user}`: 💼 Trades a specified amount of your coins to another user.
 - `!worlds`: 🌐 Lists the available worlds and the levels at which they are unlocked.
 - `!prestige`: 🏅 Prestige when you reach level 50 to reset your level and increase your prestige.
 
