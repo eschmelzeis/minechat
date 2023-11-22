@@ -1,0 +1,5 @@
+{
+    "token": "oauth:token",
+    "prefix": "!",
+    "initial_channels": ["channel1", "channel2", "channel3"]
+}
