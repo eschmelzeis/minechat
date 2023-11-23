@@ -17,7 +17,7 @@ Welcome to the ultimate mining game on Twitch! Mine ores, sell them for coins, u
 - `!help`: ❓ Displays a help message with a list of commands.
 - `!leaderboard`: 🏆 Displays the top 5 users with the most coins.
 - `!guess`: 🎲 Plays a guessing game where you guess a number between 1 and 10. If you guess correctly, you win a random amount of coins between 1 and 10.
-- `!trade {@user}`: 💼 Trades a specified amount of your coins to another user.
+- `!trade {@user} {Amount}`: 💼 Trades a specified amount of your coins to another user.
 - `!worlds`: 🌐 Lists the available worlds and the levels at which they are unlocked.
 - `!prestige`: 🏅 Prestige when you reach level 50 to reset your level and increase your prestige.
 
